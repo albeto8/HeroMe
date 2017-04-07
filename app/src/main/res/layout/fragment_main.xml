@@ -33,49 +33,46 @@
             android:src="@drawable/heroes" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/accidentBtn"
             android:layout_width="300dp"
             android:layout_height="55dp"
             android:layout_gravity="center"
             android:layout_marginTop="15dp"
             android:background="@drawable/hero_button"
             android:drawableLeft="@drawable/lightning"
-            android:drawableRight="@drawable/item_selected"
             android:paddingLeft="5dp"
             android:paddingRight="10dp"
             android:text="Came by accident"
             android:textColor="#FAC740" />
 
         <Button
-            android:id="@+id/button3"
+            android:id="@+id/geneticBtn"
             android:layout_width="300dp"
             android:layout_height="55dp"
             android:layout_gravity="center"
             android:layout_marginTop="15dp"
             android:background="@drawable/hero_button"
             android:drawableLeft="@drawable/rocket"
-            android:drawableRight="@drawable/item_selected"
             android:paddingLeft="5dp"
             android:paddingRight="10dp"
             android:text="Genetic mutation"
             android:textColor="#FAC740" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/bornBtn"
             android:layout_width="300dp"
             android:layout_height="55dp"
             android:layout_gravity="center"
             android:layout_marginTop="15dp"
             android:background="@drawable/hero_button"
             android:drawableLeft="@drawable/atomic"
-            android:drawableRight="@drawable/item_selected"
             android:paddingLeft="5dp"
             android:paddingRight="10dp"
             android:text="Born with them"
             android:textColor="#FAC740" />
 
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/chooseBtn"
             android:layout_width="300dp"
             android:layout_height="55dp"
             android:layout_gravity="center"
